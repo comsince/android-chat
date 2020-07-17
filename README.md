@@ -3,6 +3,9 @@
 [![Gitee stars](https://gitee.com/comsince/universe_push/badge/star.svg?theme=white)](https://gitee.com/comsince/universe_push)
 [![GitHub stars](https://img.shields.io/github/stars/comsince/universe_push?style=social)](https://github.com/comsince/universe_push)
 
+
+__NOTE__: __项目已经迁移到这里[fsharechat/android-chat](https://github.com/fsharechat/android-chat)维护__
+
 # 飞享
 
 ![image](http://image.comsince.cn/fx-chat.png)
